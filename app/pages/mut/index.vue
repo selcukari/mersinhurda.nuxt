@@ -54,7 +54,7 @@
       <section class="card bg-gray mt-lg">
         <h2 class="section-title">Mut İlçesinde Hurda Alımı Yapılan Mahalleler</h2>
         <p class="card-text body-text">
-          Çilek, Hal, Karaduvar, Kazanlı, Nusratiye, Bahçe, Barış, Yeni Mahalle  ve Mut ilçesinin tüm mahallelerinde adresinize kadar gelerek hizmet vermekteyiz.
+          Çilek, Hal, Karaduvar, Kazanlı, Nusratiye, Bahçe, Barış, Yeni Mahalle ve Mut ilçesinin tüm mahallelerinde adresinize kadar gelerek hizmet vermekteyiz.
         </p>
       </section>
 
