@@ -1,0 +1,35 @@
+{
+  "name": "mersinhurda-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3.15.0",
+    "better-sqlite3": "^13.0.1",
+    "nuxt": "^4.5.0",
+    "vue": "^3.5.40",
+    "vue-router": "^5.2.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.18.1",
+    "@nuxt/typescript-build": "^3.0.2",
+    "@types/node": "^20.6.1",
+    "postcss": "^8.5.23",
+    "postcss-html": "^1.8.1",
+    "postcss-scss": "^4.0.9",
+    "sass": "^1.102.0",
+    "sass-loader": "^17.0.0",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-vue": "^9.17.1",
+    "prettier": "^3.0.2",
+    "typescript": "^5.9.0"
+  },
+  "packageManager": "yarn@1.22.22"
+}
